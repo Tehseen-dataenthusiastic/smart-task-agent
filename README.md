@@ -1,4 +1,4 @@
-# 🚀 Smart Task Agent
+# Smart Task Agent
 
 ## Overview
 Smart Task Agent is a simple agentic system that converts high-level user goals into executable steps and completes them.
@@ -11,7 +11,7 @@ Instead of just responding like a chatbot, the system:
 
 ---
 
-## 🔍 What it does
+## What it does
 
 Input:
 > "Explain blockchain and write a LinkedIn post"
@@ -22,7 +22,7 @@ Output:
 
 ---
 
-## ⚙️ How it works
+## How it works
 
 The system follows a basic agent loop:
 
@@ -39,7 +39,7 @@ The system follows a basic agent loop:
 
 ---
 
-## 🧠 Key Idea
+## Key Idea
 
 Most AI tools are **assistive** (they respond to prompts).
 
@@ -48,7 +48,7 @@ This project explores a shift toward **agentic systems** that:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - LLM API (OpenRouter / similar)
@@ -56,7 +56,7 @@ This project explores a shift toward **agentic systems** that:
 
 ---
 
-## ▶️ How to run
+## How to run
 
 1. Install dependencies:
 
@@ -66,7 +66,7 @@ This project explores a shift toward **agentic systems** that:
 
 ---
 
-## 💡 Example Use Cases
+## Example Use Cases
 
 - Content generation (emails, posts)
 - Summarization
@@ -75,13 +75,13 @@ This project explores a shift toward **agentic systems** that:
 
 ---
 
-## ⚠️ Note
+## Note
 
 API keys are not included in this repository for security reasons.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add memory between steps
 - Improve planning accuracy
